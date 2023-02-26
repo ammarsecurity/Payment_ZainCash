@@ -6,11 +6,31 @@
     <Nullable>enable</Nullable>
     <FileVersion>1.0</FileVersion>
     <AssemblyVersion>1.0</AssemblyVersion>
-    <NeutralLanguage>el</NeutralLanguage>
+    <NeutralLanguage>en</NeutralLanguage>
     <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
     <Title>ZainCashByAmmarAlasfer</Title>
     <Copyright>Ammar Rashad Alasfer</Copyright>
+    <PackageProjectUrl>https://github.com/ammarsecurity</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/ammarsecurity/Payment_ZainCash</RepositoryUrl>
+    <PackageIcon>1667500265_icon.png</PackageIcon>
+    <PackageReadmeFile>README.md</PackageReadmeFile>
+    <IncludeSymbols>False</IncludeSymbols>
+    <PackageRequireLicenseAcceptance>True</PackageRequireLicenseAcceptance>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <PackageTags>Online,iraqPayment,payment,iraq</PackageTags>
+    <PackageReleaseNotes>this first Release</PackageReleaseNotes>
   </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="..\..\..\..\Desktop\1667500265_icon.png">
+      <Pack>True</Pack>
+      <PackagePath>\</PackagePath>
+    </None>
+    <None Include="..\..\..\..\Desktop\README.md">
+      <Pack>True</Pack>
+      <PackagePath>\</PackagePath>
+    </None>
+  </ItemGroup>
 
   <ItemGroup>
     <PackageReference Include="jose-jwt" Version="4.1.0" />

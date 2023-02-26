@@ -1,5 +1,13 @@
 ﻿namespace Payment_ZainCash
 {
+
+    /// <summary>
+    ///  This class is used to make payment using ZainCash
+    ///  developer : Ammar Rashad
+    ///  year : 2023
+    ///  for support : 009647830200030
+    ///  linkedin : https://www.linkedin.com/in/ammar-alasafer-b2933415a/
+    /// </summary>
     public class ZainPayment
     {
         public string GenerateZaincashUrl(
