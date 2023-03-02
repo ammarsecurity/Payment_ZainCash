@@ -1,7 +1,7 @@
 # ZainCash .NET Core Package for Online Payments in Iraq
 
-[![NuGet Version](https://img.shields.io/nuget/v/ZainCashPayment.svg)](https://www.nuget.org/packages/Payment_ZainCash/1.0.0)
-[![NuGet Downloads](https://img.shields.io/nuget/dt/ZainCashPayment.svg)](https://www.nuget.org/packages/Payment_ZainCash/1.0.0)
+[![NuGet Version](https://img.shields.io/nuget/v/Payment_ZainCash.svg)](https://www.nuget.org/packages/Payment_ZainCash/1.0.0)
+[![NuGet Downloads](https://img.shields.io/nuget/dt/Payment_ZainCash.svg)](https://www.nuget.org/packages/Payment_ZainCash/1.0.0)
 
 This package provides a .NET Core implementation of ZainCash API for online payments in Iraq.
 
